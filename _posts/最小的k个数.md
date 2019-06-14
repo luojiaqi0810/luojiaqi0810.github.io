@@ -7,7 +7,7 @@ author: luojiaqi
 header-img: img/post-bg-re-vs-ng2.jpg 
 catalog: true                         
 tags:                                 
-	剑指offer                              
+    剑指offer                              
 ---
 
 牛客网OJ [最小的k个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=13&tqId=11182&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
