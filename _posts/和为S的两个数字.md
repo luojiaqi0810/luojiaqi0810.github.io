@@ -7,7 +7,7 @@ author: luojiaqi
 header-img: img/post-bg-re-vs-ng2.jpg 
 catalog: true                         
 tags:                                 
-	剑指offer                              
+    剑指offer                              
 ---
 
 牛客网OJ [和为S的两个数字](<https://www.nowcoder.com/practice/390da4f7a00f44bea7c2f3d19491311b?tpId=13&tqId=11195&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking>)
